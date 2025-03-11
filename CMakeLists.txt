@@ -3,4 +3,4 @@ project(ProgrammationOrienteeObjet_POO)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(ProgrammationOrienteeObjet_POO main.cpp)
+add_executable(ProgrammationOrienteeObjet_POO main.cpp Triangle.cpp)
