@@ -1,0 +1,35 @@
+# Fichiers compilés
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Répertoires de construction
+build/
+cmake-build-debug/
+cmake-build-release/
+debug/
+release/
+bin/
+lib/
+
+# Fichiers de projet IDE
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.suo
+*.user
+CMakeSettings.json
+
+# Fichiers de sauvegarde
+*~
+*.bak
+*.swp
+
+# Autres
+.DS_Store
